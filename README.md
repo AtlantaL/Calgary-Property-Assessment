@@ -10,3 +10,4 @@ This repository consists of a final project from the data visualization course, 
 - Population Growth 
 - Crime Rates
 
+Alongside the code is also a powerpoint presentation and our initital proposal.
